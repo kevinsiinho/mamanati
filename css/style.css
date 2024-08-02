@@ -13692,3 +13692,15 @@ header{
 .llegar{
 	background-color: #caf0f8;
 }
+
+.precios{
+	background-color: white;
+	border-radius: 250px;
+}
+.precio-nac{
+	margin-top: 30px;
+}
+
+.comida{
+	margin-top: 220px;
+}
